@@ -5,6 +5,17 @@ A super speedy introduction/refresh course of Pyhton basics - intended for the I
 The course will be held on Tuesday, October 3rd by [Sara Bicego](https://sites.google.com/view/s-bicego/home)
 
 ## Before the course - Installing the required software
-The course will be an interactive and hands-on exercise session, so you will need your laptop to be set up with Python 3 and Jupyter Notebook beforehand. Anaconda is a useful package that allows for an easy start into the world of Python. 
+The course will be an interactive and hands-on exercise session, so you will need your laptop to be set up with Python 3 and Jupyter Notebook beforehand. Anaconda is an useful package that allows for an easy start into the world of Python. Here you can find instructions for installing what you will need on your machine via the Anaconda platform. 
+
+Installing Anaconda will equip your laptop with the Python interpreter, a number of useful Python packages (matplotlib, NumPy, SciPy, etc.), 
+Jupyter Notebook, and the conda package manager. Note that installing Python via Anaconda will not break any other installations of Python that already exist on your computer. 
+
+Without farther ado, here the action comes!
+1. Navigate to [this page](https://www.anaconda.com/download/) and download the software according with your machine requirement.
+2. After the download is complete, begin the installation process.
+
+More detailed instruction for installation can be found [here](https://www.pythonlikeyoumeanit.com/Module1_GettingStartedWithPython/Installing_Python.html#:~:text=Installing%20the%20Anaconda%20platform%20will,matplotlib%2C%20NumPy%2C%20and%20SciPy.).
+
+If you are more of a visual learner, here is the [link to a video](https://learning.anaconda.cloud/get-started-with-anaconda?next=%2Fget-started-with-anaconda%2F18199) covering the installation process and some additional material.
 
 
