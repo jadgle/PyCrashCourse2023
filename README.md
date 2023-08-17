@@ -13,7 +13,7 @@ Installing Anaconda will equip your laptop with the Python interpreter, a number
 Jupyter Notebook, and the conda package manager. Note that installing Python via Anaconda will not break any other installations of Python that already exist on your computer. 
 
 Without farther ado, here comes the action!
-1. Navigate to [this page](https://www.anaconda.com/download/) and download the software according with your machine requirement.
+1. Navigate to [this page](https://www.anaconda.com/download/) and download the software according with your machine requirements.
 2. After the download is complete, begin the installation process.
 
 More detailed instruction for installation can be found [here](https://www.pythonlikeyoumeanit.com/Module1_GettingStartedWithPython/Installing_Python.html#:~:text=Installing%20the%20Anaconda%20platform%20will,matplotlib%2C%20NumPy%2C%20and%20SciPy.).
