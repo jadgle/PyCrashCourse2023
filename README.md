@@ -19,7 +19,7 @@ Without farther ado, here comes the action!
 More detailed instruction for installation can be found [here](https://www.pythonlikeyoumeanit.com/Module1_GettingStartedWithPython/Installing_Python.html#:~:text=Installing%20the%20Anaconda%20platform%20will,matplotlib%2C%20NumPy%2C%20and%20SciPy.).
 Lastly, if you are more of a visual learner, here is the [link to a video](https://learning.anaconda.cloud/get-started-with-anaconda?next=%2Fget-started-with-anaconda%2F18199) covering the installation process and some additional material.
 
-For any questions reguarding the installation do not hesitate to contact me - otherwise, see you in October! 
+For any questions do not hesitate to contact me - otherwise, see you in October! 
 
 
 
