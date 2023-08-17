@@ -4,7 +4,7 @@ A super speedy introduction/refresh course of Pyhton basics - intended for the I
 
 The course will be held on Tuesday, October 3rd by [Sara Bicego](https://sites.google.com/view/s-bicego/home). 
 
-The course will be an interactive hands-on exercise session, covering Python 3 basics, including algebra for vectors/matrices and how to solve linear/nonlinear systems of equations. The material will be uploaded here. The page will be subject to changes.
+The course will be an interactive hands-on exercise session, covering Python 3 basics, including algebra for vectors/matrices and how to solve linear/nonlinear systems of equations. The material will be uploaded here. This page will be subject to changes.
 
 ## Before the course - Installing Anaconda
 Before the course, you will need your laptop to be set up with Python 3 and Jupyter Notebook. Anaconda is an useful package that allows for an easy start into the world of Python. Here you can find instructions for installing what you will need on your machine via the Anaconda platform. 
