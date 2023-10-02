@@ -21,6 +21,16 @@ Lastly, if you are more of a visual learner, here is the [link to a video](https
 
 For any questions do not hesitate to contact me - otherwise, see you in October! 
 
+## The course
+The lecture will take place in the lab room 414 (Huxley Building) on Tuesday October the 3^{rd} from 9am to 1pm. The program is divided into a first and a second part, with a short break in between. 
+
+* [Part 1](https://github.com/jadgle/PyCrashCourse2023/blob/bd8cc3316a6b5ebe51fb3e1512172d324562f17b/Part_1.ipynb) - In the first part of the course we will be covering the Python basics, starting from "Hello World" and the variable definition, up to data structures like strings and lists. We will also introduce the basic constructs (if/for/while) and list comprehensions.
+* [Part 2](https://github.com/jadgle/PyCrashCourse2023/blob/bd8cc3316a6b5ebe51fb3e1512172d324562f17b/Part_1.ipynb) - In the second part of the course we will be working with matrices and numpy arrays and solving systems of linear and non-linear equations using this data structure.
+
+
+
+
+
 
 
 
