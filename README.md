@@ -27,7 +27,12 @@ The lecture will take place in the lab room 414 (Huxley Building) on Tuesday Oct
 * [Part 1](https://github.com/jadgle/PyCrashCourse2023/blob/8048447c196c3a0c435a9bcf95bcfb49264fd4c7/Part_1.ipynb) - In the first part of the course we will be covering the Python basics, starting from "Hello World" and the variable definition, up to data structures like strings and lists. We will also introduce the basic constructs (if/for/while) and list comprehensions.
 * [Part 2](https://github.com/jadgle/PyCrashCourse2023/blob/6da3f02fa20d3ea2b863d4473d55aa22596c7dd3/Part_2.ipynb) - In the second part of the course we will be working with matrices and numpy arrays and solving systems of linear and non-linear equations using this data structure. This will be followed by a brief introduction to Matplotlib.
 
-[Link to Teams](https://teams.microsoft.com/l/channel/19%3ae5Ifhaw5hFeuW8TvtEBsJ3OxbKRhY0nJcPbrqe2An981%40thread.tacv2/General?groupId=744a6fe9-e4ba-40c6-9c4c-2698f14f5d0d&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307)
+* [Link to Teams](https://teams.microsoft.com/l/channel/19%3ae5Ifhaw5hFeuW8TvtEBsJ3OxbKRhY0nJcPbrqe2An981%40thread.tacv2/General?groupId=744a6fe9-e4ba-40c6-9c4c-2698f14f5d0d&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307)
+
+## After the course 
+Here the links to the complete notebooks, including the solutions to the exercises 
+* [Solutions to Part 1](https://github.com/jadgle/PyCrashCourse2023/blob/69ef54a19ac6e979042b4c498ca1e7e6f75f46c4/Part_1_solutions.ipynb) 
+* [Solutions to Part 2](https://github.com/jadgle/PyCrashCourse2023/blob/69ef54a19ac6e979042b4c498ca1e7e6f75f46c4/Part_2_solutions.ipynb) 
 
 
 
